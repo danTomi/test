@@ -1,5 +1,5 @@
 # Exercise
-A set of tests created in JS. They are run using Protractor. The tested page can be found at -> [PAGE]( https://www.testdevlab.com/)
+One test created in JS. They are run using Protractor. The tested page can be found at -> [PAGE]( https://www.testdevlab.com/)
 
 
 ## Setup
