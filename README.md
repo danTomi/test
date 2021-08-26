@@ -1,5 +1,5 @@
-# To-Do-List-Testing
-A set of tests created in JS. They are run using Protractor. The tested application can be found at -> [To-Do List]( http://todomvc.com/examples/angularjs/#/)
+# Exercise
+A set of tests created in JS. They are run using Protractor. The tested page can be found at -> [PAGE]( https://www.testdevlab.com/)
 
 
 ## Setup
